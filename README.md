@@ -8,6 +8,8 @@
 
 ❓ [为什么](#-为什么) | 📑 [教程简介](#-教程简介) | 👩‍💻 [团队简介](#-团队简介) | 🤟 [项目必看](#-项目必看) | 🔖 [正文目录](#-正文目录) | 🐇 [体制问答](https://www.gongkaoshequ.com/cate/4_38_21_23_22/seq/0)
 
+考公务员的都是大牛
+
 ---
 
 **体制备考**：<p align="center">  🐻‍❄️ [公考是什么](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E5%85%AC%E8%80%83%E6%98%AF%E4%BB%80%E4%B9%88.md) |  🦫 [怎么高效准备](https://github.com/miss-mumu/developer2gwy/blob/main/doc/nav/%E6%80%8E%E4%B9%88%E9%AB%98%E6%95%88%E5%87%86%E5%A4%87.md) | 🐾 [公考资源分享](https://www.gongkaoshequ.com/cate/3_16_17_18_19_20/seq/0) | 🦮 [应用APP推荐](https://www.gongkaoshequ.com/thread/168) | 🦘 [考公全程服务]() </p>
